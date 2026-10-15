@@ -9,8 +9,8 @@
 8,C2907136,FRC0603J270 TS,FOJAN,0603,,27Ω ±5% 100mW 0603 Thick Film Resistor,yes,100,100,100,0.0022,0.22,https://www.lcsc.com/product-detail/C2907136.html
 9,C95204,RT0603BRD0710KL,YAGEO,0603,,100mW 10kΩ 75V Thin Film Resistor ±25ppm/℃ ±0.1% 0603 Chip Resistor - Surface Mount RoHS,yes,40,20,20,0.0331,1.32,https://www.lcsc.com/product-detail/C95204.html
 10,C1663,CL10C330JB8NNNC,Samsung Electro-Mechanics,0603,,33pF ±5% 50V Ceramic Capacitor C0G 0603,yes,100,50,50,0.0089,0.89,https://www.lcsc.com/product-detail/C1663.html
-11,C97521,W25Q128JVSIQ,Winbond,SOIC-8-208mil,,128Mbit 2.7V~3.6V 133MHz SPI SOIC-8-208mil Memory RoHS,yes,4,1,1,2.5844,10.34,https://www.lcsc.com/product-detail/C97521.html
-12,C39051,MCP1700T-3302E/TT,MICROCHIP,SOT-23,,"3.3V Positive Fixed SOT-23 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators RoHS",yes,5,1,1,0.3999,2.00,https://www.lcsc.com/product-detail/C39051.html
-13,C9002,X322512MSB4SI,YXC Crystal Oscillators,SMD3225-4P,,Crystal 12MHz ±10ppm 20pF SMD3225-4P,yes,5,5,5,0.0960,0.48,https://www.lcsc.com/product-detail/C9002.html
-14,C2765186,TYPE-C 16PIN 2MD(073),SHOU HAN,SMD,,"USB-C (USB TYPE-C) Receptacle Connector 16 Position Surface Mount, Right Angle",yes,20,20,20,0.0716,1.43,https://www.lcsc.com/product-detail/C2765186.html
-15,C720477,TS-1088-AR02016,XUNPU,"SMD,4x3mm",,Tactile Switch SPST 160gf 2mm SMD (SMT) Tab 4mm x 3mm Surface Mount,yes,10,10,10,0.0504,0.50,https://www.lcsc.com/product-detail/C720477.html
+11,C39051,MCP1700T-3302E/TT,MICROCHIP,SOT-23,,"3.3V Positive Fixed SOT-23 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators RoHS",yes,5,1,1,0.3999,2.00,https://www.lcsc.com/product-detail/C39051.html
+12,C9002,X322512MSB4SI,YXC Crystal Oscillators,SMD3225-4P,,Crystal 12MHz ±10ppm 20pF SMD3225-4P,yes,5,5,5,0.0960,0.48,https://www.lcsc.com/product-detail/C9002.html
+13,C2765186,TYPE-C 16PIN 2MD(073),SHOU HAN,SMD,,"USB-C (USB TYPE-C) Receptacle Connector 16 Position Surface Mount, Right Angle",yes,20,20,20,0.0716,1.43,https://www.lcsc.com/product-detail/C2765186.html
+14,C720477,TS-1088-AR02016,XUNPU,"SMD,4x3mm",,Tactile Switch SPST 160gf 2mm SMD (SMT) Tab 4mm x 3mm Surface Mount,yes,10,10,10,0.0504,0.50,https://www.lcsc.com/product-detail/C720477.html
+15,C2456208,W25Q16JVZPIQ,Winbond,WSON-8-EP(5x6),,16Mbit 2.7V~3.6V 133MHz SPI WSON-8-EP(5x6) Memory RoHS,yes,4,1,1,1.9161,7.66,https://www.lcsc.com/product-detail/C2456208.html
