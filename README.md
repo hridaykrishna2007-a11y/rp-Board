@@ -26,7 +26,6 @@ This Project was made for Forge YSWS in Hack Club ( THANK YOU HACK CLUB <3 )
 Easy Peasy.
 - Order the parts from the BOM and get the pcb fabricated too!
 - Solder the components on the pcb and keep the orientations in mind (or you are cooked).
-- Superglue the case together. (This project is designed keeping portablity and light weight in mind. Hence no screws as it will increase the weight)
 - Check the solder connections to prevent the board or the rp2040 microcontroller from going POOF.
 - upload your code (or the sample one in this same repo) using usb cable and arduino ide.
 - ITS READYYYYYYYYYYYYYYYYYYYYYY!
